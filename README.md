@@ -1,1 +1,1 @@
-# JavaScript-Challenge
+### Leetcode's javascript challenge
